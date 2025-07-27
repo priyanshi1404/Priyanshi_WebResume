@@ -16,6 +16,10 @@ This is a responsive and visually appealing personal web resume built using **HT
 
 ---
 
+## 📸 Preview
+
+![Web Resume Home Page](web_home.png)
+
 ## 🛠️ Technologies Used
 
 - HTML5
